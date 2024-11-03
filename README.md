@@ -160,11 +160,13 @@ To run ChakraCart locally, follow these steps:
 
 
 6. **Start the Frontend**
+   
       In a new terminal window, navigate to the frontend directory and start the frontend application with:
       ```bash
       npm run dev
 
-7. Start the Admin Panel
+8. **Start the Admin Panel**
+   
       Open another terminal, navigate to the admin directory, and start the admin panel with:
       ```bash
       npm run dev
